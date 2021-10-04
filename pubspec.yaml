@@ -16,9 +16,11 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^7.3.0
+  flutter_facebook_auth: ^3.5.2
   flutter_polyline_points: ^1.0.0
   geolocator: ^7.6.2
   google_maps_flutter: ^2.0.11
+  google_sign_in: ^5.1.1
   http: ^0.13.3
   intl: ^0.17.0
   math_expressions: ^2.2.0
